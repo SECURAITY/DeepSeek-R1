@@ -1,4 +1,4 @@
-# DeepSeek-R1
+# DeepSeek-R1 Jailbreaks
 This is the official repo for the Deepseek Technical Report.
 <details>
   <summary><h2>1.1 DAN - 1</h2></summary>
