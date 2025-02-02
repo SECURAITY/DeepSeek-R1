@@ -1,4 +1,4 @@
-# Deepseek Testing
+# Deepseek Testing - Discontinued for Now...
 
 <details>
   <summary><h2>1. Letter Splitting</h2></summary>
